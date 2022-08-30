@@ -1,6 +1,5 @@
 <h2> Hi, I'm Bautista Mendez Casariego! :wave: </h2>
-<p><em>Fullstack developer <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> Computer science student at  <a href="http://www.unq.edu.ar/">UNQ</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<p><em>Fullstack developer <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
 [![Linkedin: Ivan Velazquez](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/ivan-vel/)](https://www.linkedin.com/in/ivan-vel/)
 [![Mail: Ivan Velazquez](https://img.shields.io/badge/-Mail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Velazquez.ivan.e98@gmail.com)](mailto:Velazquez.ivan.e98@gmail.com)

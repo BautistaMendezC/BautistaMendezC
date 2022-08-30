@@ -1,8 +1,9 @@
 <h2> Hi, I'm Bautista Mendez Casariego! :wave: </h2>
 <p><em>Fullstack developer <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
-[![Linkedin: Ivan Velazquez](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/ivan-vel/)](https://www.linkedin.com/in/ivan-vel/)
-[![Mail: Ivan Velazquez](https://img.shields.io/badge/-Mail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Velazquez.ivan.e98@gmail.com)](mailto:Velazquez.ivan.e98@gmail.com)
+[![Linkedin: Bautista Mendez Casariego](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/ivan-vel/)](https://www.linkedin.com/in/bautista-mendez-casariego-708239246/)
+[![Mail: Bautista Mendez Casariego](https://img.shields.io/badge/-Mail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Velazquez.ivan.e98@gmail.com)](mailto:bautistamendezc@gmail.com)
+
 
 ### About me
 <p>Hi, I am Bautista and I am 25 years old. I am a fullstack, front-end oriented developer.</p>

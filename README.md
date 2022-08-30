@@ -1,5 +1,19 @@
 <h2> Hi, I'm Bautista Mendez Casariego! :wave: </h2>
 <p><em>Fullstack developer <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p>Who I am?
+-I am a Full Stack Developer with the ability to develop web projects, focused on teamwork, in continuous growth and learning.
+
+Why me?
+-I consider myself a curious programmer, with communication skills. Able to transmit an idea, make it reach the corresponding person in the most assertive way.
+
+My work experience
+-For 7 years I worked in customer service and as an administrative in E-commerce, where I strengthened my relationship with people, I was able to function in an environment with customers and gained experience in making decisions under pressure that were relevant to the company.
+
+Do you want to know more about me? Contact me!
+-WPP: +54 9 11 60582327
+-IG: @bautimendezc
+-Email: bautimendezc@gmail.com</p>
+
 
 [![Linkedin: Bautista Mendez Casariego](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/ivan-vel/)](https://www.linkedin.com/in/bautista-mendez-casariego-708239246/)
 [![Mail: Bautista Mendez Casariego](https://img.shields.io/badge/-Mail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Velazquez.ivan.e98@gmail.com)](mailto:bautistamendezc@gmail.com)
